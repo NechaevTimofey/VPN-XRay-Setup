@@ -1,8 +1,8 @@
 # VPN-XRay-Setup
 <!--Setup-->
-- [VDS/VPS Rental](#Rental)
-- [Configuring the 3X-UI Panel](#Configuring-Panel)
-  + [What is 3X-UI](#What-is-it)
+- [VDS/VPS Rental](#VDS/VPS Rental)
+- [Configuring the 3X-UI Panel](#Configuring the 3X-UI Panel)
+  + [What is 3X-UI](#What is 3X-UI)
   + [Installation](#Installation)
 - [Configuring the client for different OS](#Configuring-OS)
   + Windows
@@ -27,11 +27,11 @@
 
 # Configuring the 3X-UI Panel
 <!--3X-UI-Panel-->
-**What is 3X-UI**
+## **What is 3X-UI**
 
 > **3X-UI** is an open-source, **multi-protocol panel** for managing **XRay proxy servers**. It is designed to **simplify** the deployment and management of proxy services, supporting various protocols like **VMess**, **VLESS**, **Trojan**, **Shadowsocks**, and more
 
-**Installation**
+## **Installation**
 
 ****
 ### ⚠️ ***If the parameter is not specified exactly in the article, then leave it by default.*** ⚠️ 
