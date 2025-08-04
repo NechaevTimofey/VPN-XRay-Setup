@@ -1,10 +1,10 @@
 # VPN-XRay-Setup
 <!--Setup-->
-- [VDS/VPS-Rental](#VDS/VPS-Rental)
+- [VDS/VPS Rental](#VDS/VPS-Rental)
 - [Configuring the 3X-UI Panel](#Configuring-the-3X-UI-Panel)
-  + [What-is-3X-UI](#What-is-3X-UI)
+  + [What is 3X-UI](#What-is-3X-UI)
   + [Installation](#Installation)
-- [Configuring-the-client-for-different-OS](#Configuring-the-client-for-different-OS)
+- [Configuring the client for different OS](#Configuring-the-client-for-different-OS)
   + Windows
   + Android
   + MacOS
